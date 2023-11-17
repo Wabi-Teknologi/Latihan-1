@@ -1,3 +1,3 @@
 # Latihan-Github
 
-Kalian bisa mengisi ini dengan apa saja yang kalian inginkan
+Ini yang sudah saya ubah
